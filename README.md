@@ -1,4 +1,4 @@
-# galerialeo
+# Galeria Movil.
 
 A new Flutter project.
 
